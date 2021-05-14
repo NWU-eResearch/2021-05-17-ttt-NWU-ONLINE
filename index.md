@@ -14,7 +14,7 @@ etherpad:   https://pad.carpentries.org/2021-05-17-NWU-ONLINE          # optiona
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
   - venue: "Online"
-    address: "https://carpentries.zoom.us/my/carpentriesroom1" Use passcode 202020 when asked
+    address: "https://carpentries.zoom.us/my/carpentriesroom1" 
      
 ---
 
